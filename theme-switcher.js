@@ -1,4 +1,4 @@
-class ThemeSwitcher {
+export class ThemeSwitcher {
     constructor(options = {}) {
         this.config(options);
         this.init();
@@ -83,10 +83,7 @@ class ThemeSwitcher {
     }
 
     init() {
-
         this.setValue(this.isDark() ? 'dark' : 'light');
         this.initButton();
-
     }
-
 }
