@@ -16,6 +16,16 @@ JavaScript theme switcher class
    const themeSwitcher = new ThemeSwitcher()
    ```
 
+## Methods
+
+   ```ts
+   .isDark()
+   .isLight()
+   .setDark()
+   .setLight()
+   .toggle()
+   ```
+
 
 ## License
 
