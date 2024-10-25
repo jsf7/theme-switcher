@@ -9,7 +9,7 @@ export class ThemeSwitcher {
             storage: globalThis.localStorage,
             storageKeyName: 'color-scheme',
             button: null,
-          	classPrefix: 'theme-'
+            classPrefix: 'theme-'
         }
         this.settings = Object.assign({}, defaults, options);
         this.storage = this.settings.storage;
