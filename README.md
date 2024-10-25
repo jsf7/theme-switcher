@@ -29,4 +29,4 @@ JavaScript theme switcher class
 
 ## License
 
-[MIT](LICENSE) © [jsf7](https://github.com/rodrigobdz).
+[MIT](LICENSE) © [jsf7](https://github.com/jsf7).
